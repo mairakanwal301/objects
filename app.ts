@@ -1,4 +1,4 @@
-import chalk from "chalk"
+
 const car = {
     name:"corola",
     color:"black",
@@ -9,7 +9,7 @@ const car = {
     airconditionar:"true",
 
 }
-console.log("My Car details are as following:");
+
 console.log(car);
 
 //  object with given types
